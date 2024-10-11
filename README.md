@@ -49,7 +49,7 @@ console.log(umaarray[2]); // pega o terceiro elemento da array (no caso o 3)
 
 console.log(umaarray[3]); // pega o quarto elemento da array (no caso o 'quatro')
 
-console.log(umaarray[3]); // pega o quinto elemento da array (no caso o '5')
+console.log(umaarray[3]); // pega o quinto elemento da array (no caso '5')
 
 console.log(umaarray.length); //pega o tamanho da array (no caso o 5)
 
