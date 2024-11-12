@@ -55,3 +55,12 @@ console.log(umaarray.length); //pega o tamanho da array (no caso o 5)
 
 console.log(umaarray[umaarray.length - 1]); //pega o útimo elemento de uma array (no caso o '5')
 ```
+
+
+
+```js
+const objeto = {
+  propriedade1: 1
+  propriedade2: "texto"  
+}
+```
